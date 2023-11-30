@@ -5,11 +5,11 @@ This project provides a solution for calculating the next business day, taking h
 
 ## Contents
 
-* [Project Structure](https://github.com/BillPelegrini/businessday_calculator/README.md#Project-Structure)
-* [Setup](https://github.com/BillPelegrini/businessday_calculator/README.md#Setup)
-* [Usage](https://github.com/BillPelegrini/businessday_calculator/README.md#Usage)
-* [Examples](https://github.com/BillPelegrini/businessday_calculator/README.md#Examples)
-* [License](https://github.com/BillPelegrini/businessday_calculator/README.md#License)
+* [Project Structure](https://github.com/BillPelegrini/businessday_calculator/tree/main#project-structure)
+* [Setup](https://github.com/BillPelegrini/businessday_calculator/main#Setup)
+* [Usage](https://github.com/BillPelegrini/businessday_calculator/main#Usage)
+* [Examples](https://github.com/BillPelegrini/businessday_calculator/main#Examples)
+* [License](https://github.com/BillPelegrini/businessday_calculator/main#License)
 
 ## Project Structure
 **scripts.sql:** Contains SQL scripts to create the holiday table, the NextBusinessDay function, and usage examples.
